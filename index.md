@@ -32,9 +32,9 @@
 
 - Computer Science Club
     - Secretary *2022-20224*
-        > Held meetings teaching the basics of coding to beginner members.
-        > Facilitated project development teaching Frontend and Backend development.
-        > Held meetings teaching the basics of data science to intermediate to advanced level members.
+        - > Held meetings teaching the basics of coding to beginner members.
+        - > Facilitated project development teaching Frontend and Backend development.
+        - > Held meetings teaching the basics of data science to intermediate to advanced level members.
     - Member *2021-2022*
 
 - Math Society
