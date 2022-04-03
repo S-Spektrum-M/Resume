@@ -53,4 +53,3 @@
 #### Courses
 - MATH103: Linear Algebra
 - CS102: Introduction to programming with C++
-
