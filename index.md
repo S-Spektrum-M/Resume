@@ -6,12 +6,12 @@
 ### Washington High School
 
 #### Courses
-- AP Calculus BC
 - AP Computer Science A
+- AP Calculus BC
+- Honors Precalculus
 - AP Physics 1
 - AP European History
 - AP United States History
-- Honors Precalculus
 - English 11 Honors
 - English 10 Honors
 - Spanish 1-3
@@ -31,25 +31,23 @@
 #### Leadership
 
 - Washington High School Computer Science Club
-    <!--
-       -- Secretary *2022-20224*
-       -    - > Held meetings teaching the basics of coding to beginner members.
-       -    - > Facilitated project development teaching Frontend and Backend development.
-       -    - > Held meetings teaching the basics of data science to intermediate to advanced level members.
-       -->
     - Member *2021-2022*
-
 - Washington High School Math Society
-    <!--- Treasurer *2022-20224*-->
+    - Treasurer 2022-2023
     - Member *2021-2022*
 - Washington High School DECA
     - Member *2021-2023*
-        > ICDC? States? Norcal?
+        <!-- ICDC? States? Norcal?-->
 - Washington High School Quiz Bowl
+    - Treasurer 2022-2023
     - Member *2021-2022*
 
 ### Ohlone Community College
 
+#### GPA
+- Spring '22: 4.0
+
 #### Courses
+- MATH101C: Calculus with Analytic Geometry 3
 - MATH103: Linear Algebra
 - CS102: Introduction to programming with C++
