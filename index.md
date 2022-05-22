@@ -34,6 +34,7 @@
     - Member *2021-2022*
 - Washington High School Math Society
     - Treasurer 2022-2023
+    - Treasurer 2022-20224
     - Member *2021-2022*
 - Washington High School DECA
     - Member *2021-2023*
