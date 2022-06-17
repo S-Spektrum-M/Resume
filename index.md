@@ -1,6 +1,9 @@
 # Siddharth Mohanty
 *Student*
 
+## Publications
+[Security Price Analysis using Sentiment Analysis, Polynomial Regression, Markov Chains, and CART Trees](https://drive.google.com/file/d/1-ee7568pyCOz5K2uFFOjDBTTfSVYQLBF/view?usp=sharing)
+
 ## Education
 
 ### Washington High School
@@ -23,7 +26,7 @@
 #### GPA
 - 9: 3.33
 - 10: 3.50
-- Cumulative: 3.63
+- Cumulative: 3.42
 <!--- 11:-->
 <!--- 12:-->
 
