@@ -1,8 +1,26 @@
 # Siddharth Mohanty
-*Student*
+*Student/Independent Researcher*
 
 ## Publications
 [Security Price Analysis using Sentiment Analysis, Polynomial Regression, Markov Chains, and CART Trees](https://drive.google.com/file/d/1-ee7568pyCOz5K2uFFOjDBTTfSVYQLBF/view?usp=sharing)
+
+## Organizations
+
+- Washington High School Computer Science Club
+    - Member *2021-2022*
+- Washington High School Math Society
+    - Treasurer *2022-2024*
+    - Member *2021-2022*
+- Washington High School Quiz Bowl
+    - Treasurer 2022-2023
+    - Member *2021-2022*
+- Washington High School DECA
+    - Member *2021-2023*
+        <!-- ICDC? States? Norcal?-->
+- Washington Speech and Debate
+    - Member *2021-2023*
+
+<!--## Awards-->
 
 ## Education
 
@@ -23,29 +41,8 @@
 <!--- AP Economics-->
 <!--- AP LIT-->
 
-#### GPA
-- 9: 3.33
-- 10: 3.50
-- Cumulative: 3.42
-<!--- 11:-->
-<!--- 12:-->
-
-
-#### Leadership
-
-- Washington High School Computer Science Club
-    - Member *2021-2022*
-- Washington High School Math Society
-    - Treasurer *2022-2024*
-    - Member *2021-2022*
-- Washington High School Quiz Bowl
-    - Treasurer 2022-2023
-    - Member *2021-2022*
-- Washington High School DECA
-    - Member *2021-2023*
-        <!-- ICDC? States? Norcal?-->
-- Washington Speech and Debate
-    - Member *2021-2023*
+#### Unweighted GPA
+- Cumulative: 3.50
 
 ### Ohlone Community College
 
@@ -56,8 +53,8 @@
 #### Courses
 - MATH101C: Calculus with Analytic Geometry 3
 - MATH103:  Introduction to Linear Algebra
-- MATH104:  Differential Equations
-- CS124:    Programming with Discrete Structures
-- CS113:    Discrete Structures
-- CS116:    Introduction to Object Oriented Programming With C++   
+<!--- MATH104:  Differential Equations-->
+<!--- CS124:    Programming with Discrete Structures-->
+<!--- CS113:    Discrete Structures-->
+<!--- CS116:    Introduction to Object Oriented Programming With C++-->
 - CS102:    Introduction to Programming With C++
